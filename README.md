@@ -1,3 +1,3 @@
 # ToDO App 
 
-Live here : krishna-todo-app.netlify.app/
+Live here : https://krishna-todo-app.netlify.app/
